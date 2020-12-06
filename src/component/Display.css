@@ -1,0 +1,17 @@
+.component-display {
+  color: #202124;
+  text-align: right;
+  font-weight: 200;
+  flex: 0 0 auto;
+  width: 100%;
+  margin: 0 10px 10px 0;
+  box-sizing: border-box;
+  border: 1px solid #dfe1e5;
+  box-shadow: none;
+  border-radius: 4px;
+}
+
+.component-display > div {
+  font-size: 2rem;
+  margin: 0 10px 10px 0;
+}
